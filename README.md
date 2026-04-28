@@ -31,7 +31,7 @@ You trigger downloads by editing any file directly on GitHub and using a special
 5. Select **Commit directly to the `main` branch**
 6. In the commit message box, type one of the commands below
 7. Click **Commit changes**
-
+ 
 The workflow will run automatically and the downloaded files will appear in the `downloads/` folder.
 
 ---
